@@ -1,0 +1,44 @@
+.container {
+    position: relative;
+    background: linear-gradient(white, #d2eaf1);
+    color: #3e5a79;
+    text-align: left;
+    padding: 20px;
+  
+    .img_logo {
+      top: 10px;
+      left: 10px;
+      width: 50px;
+      height: 50px;
+    }
+  
+    .gridF {
+      background-color: lightgrey;
+      border: solid 1px #fff;
+      color: #fff;
+      text-align: center;
+      border-radius: 20%;
+      margin-bottom: 20px; 
+    }
+  
+    .img_tenisB {
+      max-width: 100%;
+      height: auto;
+      margin: 20px auto;
+    }
+  
+    .title {
+      font-size: 35px;
+      margin-bottom: 10px;
+    }
+  
+    .sub {
+      font-size: 35px;
+      margin-bottom: 10px;
+    }
+  
+    .description {
+      font-size: 16px;
+      line-height: 1.5;
+    }
+  }
